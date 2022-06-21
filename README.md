@@ -1,4 +1,3 @@
-# copycode
 
 A new Flutter project.
 
